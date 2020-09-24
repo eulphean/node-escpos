@@ -57,6 +57,15 @@ _.LINE_SPACING = {
 };
 
 /**
+ * [UPSIDE_DOWN set]
+ * @type {Object}
+ */
+_.UPSIDE_DOWN = {
+  TRUE: '\x1b\x7b\x01',
+  FALSE: '\x1b\x7b\x00'
+};
+
+/**
  * [HARDWARE Printer hardware]
  * @type {Object}
  */

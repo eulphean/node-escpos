@@ -839,6 +839,13 @@ Printer.prototype.setReverseColors = function (bool) {
 };
 
 
+// Set upside down.
+Printer.prototype.setUpsideDown = function (bool) {
+  this.buffer.write(bool ? _.UPSIDE_DOWN.TRUE : _.UPSIDE_DOWN.FALSE);
+  return this;
+};
+
+
 /**
  * [writes a low level command to the printer buffer]
  *
