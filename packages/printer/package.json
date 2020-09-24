@@ -1,5 +1,5 @@
 {
-  "name": "escpos",
+  "name": "escpos-upside-down",
   "version": "3.0.0",
   "description": "ESC/POS Printer driver for nodejs",
   "main": "index.js",
