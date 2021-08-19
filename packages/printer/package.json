@@ -1,6 +1,6 @@
 {
   "name": "escpos",
-  "version": "3.0.0-alpha.6",
+  "version": "3.0.0-alpha.7",
   "description": "ESC/POS Printer driver for nodejs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/song940/node-escpos.git"
+    "url": "git+https://github.com/eulphean/node-escpos.git"
   },
   "keywords": [
     "escpos",
