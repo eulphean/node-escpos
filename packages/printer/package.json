@@ -1,6 +1,6 @@
 {
-  "name": "escpos",
-  "version": "3.0.0-alpha.6",
+  "name": "escpos-upside",
+  "version": "3.0.0-alpha.7",
   "description": "ESC/POS Printer driver for nodejs",
   "main": "index.js",
   "scripts": {
