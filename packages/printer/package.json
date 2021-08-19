@@ -1,5 +1,5 @@
 {
-  "name": "escpos",
+  "name": "escpos-custom",
   "version": "3.0.0-alpha.7",
   "description": "ESC/POS Printer driver for nodejs",
   "main": "dist/index.js",
