@@ -1,6 +1,6 @@
 {
   "name": "escpos-usb-upside",
-  "version": "4.0.1-alpha.0",
+  "version": "4.0.1",
   "description": "usb adapter for escpos",
   "main": "index.js",
   "scripts": {

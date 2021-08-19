@@ -1,6 +1,6 @@
 {
   "name": "escpos-bluetooth-upside",
-  "version": "4.0.1-alpha.0",
+  "version": "4.0.1",
   "description": "bluetooth adapter for escpos",
   "main": "index.js",
   "scripts": {

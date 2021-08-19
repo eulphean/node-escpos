@@ -1,6 +1,6 @@
 {
   "name": "escpos-serialport-upside",
-  "version": "4.0.1-alpha.0",
+  "version": "4.0.1",
   "description": "serialport adapter for escpos",
   "main": "index.js",
   "scripts": {
