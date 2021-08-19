@@ -1,5 +1,5 @@
 {
-  "name": "escpos-network",
+  "name": "escpos-network-upside",
   "version": "4.0.1-alpha.0",
   "description": "network adapter for escpos",
   "main": "index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "escpos-adapter",
+  "name": "escpos-adapter-upside",
   "version": "4.0.1-alpha.0",
   "description": "escpos adapter base class",
   "main": "index.js",
