@@ -308,6 +308,16 @@ export const GSV0_FORMAT = {
 export const BEEP = '\x1b\x42'; // Printer Buzzer pre hex
 
 /**
+ * [UPSIDE_DOWN set]
+ * @type {Object}
+ */
+export const UPSIDE_DOWN = {
+  TRUE: '\x1b\x7b\x01',
+  FALSE: '\x1b\x7b\x00'
+};
+
+
+/**
  * [COLOR description]
  * @type {Object}
  */

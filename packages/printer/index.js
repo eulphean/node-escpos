@@ -49,7 +49,7 @@ util.inherits(Printer, EventEmitter);
  *
  * [function set printer model]
  * @param  {[String]}  model [mandatory]
- * @return {[Printer]} printer  [the escpos printer instance]
+ * @returfn {[Printer]} printer  [the escpos printer instance]
  */
 Printer.prototype.model = function (_model) {
   this._model = _model;
